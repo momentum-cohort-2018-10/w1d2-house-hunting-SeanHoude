@@ -8,7 +8,7 @@ r_question = "Enter the expected annual rate of return [default = 0.04]: "
 total_cost = None
 total_cost_question = "Enter the total cost of your dream home [default = 1000000]: "
 portion_down_payment = None
-portion_down_payment_question = "Enter the portion of the cost of the house required for down payment [default = 0.25]: "
+portion_down_payment_question = "Enter the portion required for down payment [default = 0.25]: "
 resume = True
 
 while resume:
